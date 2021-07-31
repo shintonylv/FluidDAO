@@ -57,7 +57,7 @@ Website
 - [ Steve wu ] solidity developer, https://gist.github.com/Stevewu1234/56563986b749fe0232155b1096cb32c5
 - [ Tang Bo Hao ] product designer. [Github](https://github.com/btspoony)
 - [ C ] Java, JS, previous experience
-- [ D ] , ...
+- [ Tony Lyu ] , entrepreneur, blockchain project leader
 - [ B ] Java, JS, previous experience
 - [ C ] , ...
 
